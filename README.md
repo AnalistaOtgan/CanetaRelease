@@ -25,9 +25,9 @@ Todos os pacotes são gerados diretamente do código-fonte oficial em Rust/Tauri
 
 | Pacote | Arquivo | Tamanho | Descrição | Download |
 | :--- | :--- | :---: | :--- | :---: |
-| **Instalador Oficial** | `CanetaNaTela-Setup-v0.1.0.exe` | **~1.77 MB** | Instalador padrão NSIS com atalhos no Menu Iniciar e suporte a desinstalação | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-Setup-v0.1.0.exe) |
-| **Pacote Corporativo** | `CanetaNaTela-v0.1.0.msi` | **~2.54 MB** | Pacote Windows Installer (MSI) para implantação em rede (GPO / Intune) | [Baixar .msi](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-v0.1.0.msi) |
-| **Versão Portátil** | `CanetaNaTela-Portable-v0.1.0.exe` | **~5.25 MB** | Executável standalone independente. Não requer instalação nem privilégios de administrador | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-Portable-v0.1.0.exe) |
+| **Instalador Oficial** | `CanetaNaTela-Setup-v0.1.0.exe` | **~2.62 MB** | Instalador padrão NSIS com atalhos no Menu Iniciar e suporte a desinstalação | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-Setup-v0.1.0.exe) |
+| **Pacote Corporativo** | `CanetaNaTela-v0.1.0.msi` | **~3.60 MB** | Pacote Windows Installer (MSI) para implantação em rede (GPO / Intune) | [Baixar .msi](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-v0.1.0.msi) |
+| **Versão Portátil** | `CanetaNaTela-Portable-v0.1.0.exe` | **~7.42 MB** | Executável standalone independente. Não requer instalação nem privilégios de administrador | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-Portable-v0.1.0.exe) |
 
 ---
 
@@ -41,9 +41,9 @@ Get-FileHash -Algorithm SHA256 <caminho-do-arquivo>
 
 | Arquivo | Hash SHA-256 |
 | :--- | :--- |
-| `CanetaNaTela-Setup-v0.1.0.exe` | `24477FBD469C96F05D8585FA28460B4D66C60F8CB24A78ACF3BEF2B044A289AE` |
-| `CanetaNaTela-v0.1.0.msi` | `81F91ACA69EEBFD0717061F174D98F6C2D667F077D85A2CC1505E83DA3C325A7` |
-| `CanetaNaTela-Portable-v0.1.0.exe` | `0CD2A1746920467BF676DCA9843879E02875D0BD6CC52529930CE44C3F6D276F` |
+| `CanetaNaTela-Setup-v0.1.0.exe` | `8B8B5E78B622C15104559ACF04BFEB8CFECE662C45DFFDE1862271D26BB6A07B` |
+| `CanetaNaTela-v0.1.0.msi` | `4268530CE1B89C19AE9FAAB1D60C6F4E76CA49A175FB5D546D03DDDB293656D4` |
+| `CanetaNaTela-Portable-v0.1.0.exe` | `A805B1BC071EEFB744BF46F79BA42C4B71E1ABF4E35C42793BF3E005EAC42C5A` |
 
 ---
 
