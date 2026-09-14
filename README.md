@@ -10,7 +10,7 @@
   **[canetanatela.otgan.com](https://canetanatela.otgan.com/)**
 
   [![Website](https://img.shields.io/badge/Website-canetanatela.otgan.com-009e95?logo=googlechrome&logoColor=white)](https://canetanatela.otgan.com/)
-  [![Versão](https://img.shields.io/badge/Vers%C3%A3o-v0.1.0-0d9488?style=flat)](https://github.com/AnalistaOtgan/CanetaRelease/releases)
+  [![Versão](https://img.shields.io/badge/Vers%C3%A3o-v0.1.2-0d9488?style=flat)](https://github.com/AnalistaOtgan/CanetaRelease/releases)
   [![Plataforma](https://img.shields.io/badge/Plataforma-Windows_x64-0284c7?logo=windows&logoColor=white)](https://github.com/AnalistaOtgan/CanetaRelease/releases)
   [![Código Fonte](https://img.shields.io/badge/Reposit%C3%B3rio-CanetaNaTela-6366f1?logo=github&logoColor=white)](https://github.com/AnalistaOtgan/CanetaNaTela)
   [![Otgan Labs](https://img.shields.io/badge/Desenvolvedor-Otgan%20Labs-009e95)](https://otgan.com)
@@ -25,9 +25,9 @@ Todos os pacotes são gerados diretamente do código-fonte oficial em Rust/Tauri
 
 | Pacote | Arquivo | Tamanho | Descrição | Download |
 | :--- | :--- | :---: | :--- | :---: |
-| **Instalador Oficial** | `CanetaNaTela-Setup-v0.1.0.exe` | **~2.62 MB** | Instalador padrão NSIS com atalhos no Menu Iniciar e suporte a desinstalação | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-Setup-v0.1.0.exe) |
-| **Pacote Corporativo** | `CanetaNaTela-v0.1.0.msi` | **~3.60 MB** | Pacote Windows Installer (MSI) para implantação em rede (GPO / Intune) | [Baixar .msi](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-v0.1.0.msi) |
-| **Versão Portátil** | `CanetaNaTela-Portable-v0.1.0.exe` | **~7.42 MB** | Executável standalone independente. Não requer instalação nem privilégios de administrador | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.0/CanetaNaTela-Portable-v0.1.0.exe) |
+| **Instalador Oficial** | `CanetaNaTela-Setup-v0.1.2.exe` | **~2.62 MB** | Instalador padrão NSIS com atalhos no Menu Iniciar e suporte a desinstalação | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.2/CanetaNaTela-Setup-v0.1.2.exe) |
+| **Pacote Corporativo** | `CanetaNaTela-v0.1.2.msi` | **~3.60 MB** | Pacote Windows Installer (MSI) para implantação em rede (GPO / Intune) | [Baixar .msi](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.2/CanetaNaTela-v0.1.2.msi) |
+| **Versão Portátil** | `CanetaNaTela-Portable-v0.1.2.exe` | **~7.42 MB** | Executável standalone independente. Não requer instalação nem privilégios de administrador | [Baixar .exe](https://github.com/AnalistaOtgan/CanetaRelease/releases/download/v0.1.2/CanetaNaTela-Portable-v0.1.2.exe) |
 
 ---
 
@@ -41,9 +41,9 @@ Get-FileHash -Algorithm SHA256 <caminho-do-arquivo>
 
 | Arquivo | Hash SHA-256 |
 | :--- | :--- |
-| `CanetaNaTela-Setup-v0.1.0.exe` | `8B8B5E78B622C15104559ACF04BFEB8CFECE662C45DFFDE1862271D26BB6A07B` |
-| `CanetaNaTela-v0.1.0.msi` | `4268530CE1B89C19AE9FAAB1D60C6F4E76CA49A175FB5D546D03DDDB293656D4` |
-| `CanetaNaTela-Portable-v0.1.0.exe` | `A805B1BC071EEFB744BF46F79BA42C4B71E1ABF4E35C42793BF3E005EAC42C5A` |
+| `CanetaNaTela-Setup-v0.1.2.exe` | `3E4D8B5B25DB760C3254F8EECE0FE14D9763B12405C55CAEAA4B21EEB54741C4` |
+| `CanetaNaTela-v0.1.2.msi` | `DA5412E7C2C56F256CE0858E6ED785BD0B3B77170219B502E3424824E0C7E7F4` |
+| `CanetaNaTela-Portable-v0.1.2.exe` | `2417D6C2AD55474D02362528E4094C21CCED271B51CE810681D5B6398C9E6BFC` |
 
 ---
 
